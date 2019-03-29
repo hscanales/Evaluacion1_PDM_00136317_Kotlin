@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">fakejava2</string>
+    <string name="dummy">0</string>
+    <string name="usuario">username</string>
+    <string name="ingrese_usuario">ingrese usuario</string>
+    <string name="ingrese_su_correo_electronico">Ingrese su Email</string>
+    <string name="send">send</string>
+</resources>
